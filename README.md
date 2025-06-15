@@ -38,7 +38,7 @@ The **Simple Todo App** is a clean and functional to-do list application built w
 
 This project is deployed on GitHub Pages:
 
-- [View the live app here](ADD LINK HERE)
+- [View the live app here](https://christian-hopper.github.io/se_project_todo-app/)
 
 ---
 
