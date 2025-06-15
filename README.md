@@ -1,6 +1,6 @@
 # Simple Todo App
 
-The **Simple Todo App** is a clean and functional to-do list application built with vanilla JavaScript and modern best practices. It allows users to add, validate, track, and delete tasks with ease. This project is great for demonstrating modular code structure, DOM manipulation, and basic client-side form validation.
+The **Simple Todo App** is a clean and functional to-do list application built with JavaScript and best practices. It allows users to add, validate, track, and delete tasks with ease. This project is great for demonstrating modular code structure, DOM manipulation, and basic client-side form validation.
 
 ---
 
@@ -42,7 +42,7 @@ This project is deployed on GitHub Pages:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Created by Christian Hopper as part of a front-end development learning path.  
 This project emphasizes reusable JS modules, component-driven architecture, and form validation best practices.
