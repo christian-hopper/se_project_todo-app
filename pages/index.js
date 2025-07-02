@@ -60,8 +60,7 @@ const renderTodo = (item) => {
 const section = new Section({
   items: initialTodos,
   renderer: (item) => {
-    const element = generateTodo(item);
-    section.addItem(element);
+    renderTodo(item);
   },
   containerSelector: ".todos__list",
 });
